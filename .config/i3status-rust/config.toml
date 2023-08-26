@@ -8,9 +8,6 @@ idle-fg = "#abcdef"
 
 [icons]
 icons = "awesome4"
-[icons.overrides]
-bat = ["|E|", "|_|", "|=|", "|F|"]
-bat_charging = "|^| "
 
 [[block]]
 block = "cpu"
@@ -31,10 +28,13 @@ format = " $icon $mem_total_used_percents.eng(w:2) "
 format_alt = " $icon_swap $swap_used_percents.eng(w:2) "
 
 [[block]]
+block = "battery"
+driver = "upower"
+format = " $icon $percentage {$time |} "
+full_format = " $icon $percentage "
+
+[[block]]
 block = "sound"
-[[block.click]]
-button = "left"
-cmd = "pavucontrol"
 
 [[block]]
 block = "time"
