@@ -1,0 +1,7 @@
+[user]
+	email = warriorkesh4@gmail.com
+	name = Great1ng
+[init]
+	defaultBranch = main
+[merge]
+	conflictStyle = diff3
