@@ -1,0 +1,16 @@
+icons_format = "{icon}"
+
+[theme]
+theme = "solarized-dark"
+[theme.overrides]
+idle-bg = "#123456"
+idle-fg = "#abcdef"
+
+[icons]
+icons = "awesome4"
+[icons.overrides]
+bat = ["|E|", "|_|", "|=|", "|F|"]
+bat_charging = "|^| "
+
+[[block]]
+block = "cpu"
