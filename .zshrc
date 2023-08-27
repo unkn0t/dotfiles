@@ -13,3 +13,11 @@ compinit
 
 # .dotfiles
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+# autocompletion
+zstyle ':completion:*' menu select
+
+#plugins
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+#source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh

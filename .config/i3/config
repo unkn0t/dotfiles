@@ -35,7 +35,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 #exec --no-startup-id nm-applet
 
 # Nitrogen start and restore wallpaper
-exec always nitrogen --restore
+exec --no-startup-id nitrogen --restore
 
 # Use pactl to adjust volume in PulseAudio.
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +2%
@@ -51,7 +51,7 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+Return exec terminator
+bindsym $mod+Return exec urxvt
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -189,4 +189,17 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
         status_command i3status-rs ~/.config/i3status-rust/config.toml
+	font pango:Iosevka 10
+    	position top 
+    	colors {
+        	separator #666666
+        	background #222222
+        	statusline #dddddd
+        	focused_workspace #0088CC #0088CC #ffffff
+        	active_workspace #333333 #333333 #ffffff
+        	inactive_workspace #333333 #333333 #888888
+        	urgent_workspace #2f343a #900000 #ffffff
+    	}
 }
+
+hide_edge_borders both
