@@ -1,0 +1,66 @@
+Xft.dpi:    141
+Xft.antialias:  1
+Xft.hinting:    1
+Xft.hintstyle:  hintmedium
+
+URxvt.termName: rxvt
+URxvt*depth: 32
+URxvt.transparent: false
+URxvt.font: xft:Iosevka Nerd Font Propo:size=12
+URxvt.scrollBar: false
+
+! Jellybeans Terminal Colours
+!URxvt.background: #151515
+!URxvt.foreground: #ffffff
+! black
+!URxvt.color0: #888888
+!URxvt.color8: #525252
+! red
+!URxvt.color1: #cf6a4c
+!URxvt.color9: #ff9d80
+! green
+!URxvt.color2: #99ad6a
+!URxvt.color10: #c3e6ad
+! yellow
+!URxvt.color3: #fad07a
+!URxvt.color11: #ffefbf
+! blue
+!URxvt.color4: #8197bf
+!URxvt.color12: #accaff
+! magenta
+!URxvt.color5: #8787af
+!URxvt.color13: #c4c4ff
+! cyan
+!URxvt.color6: #8fbfdc
+!URxvt.color14: #80bfaf
+! white
+!URxvt.color7: #888888
+!URxvt.color15: #e8e8d3
+
+! Gruber-Darker
+URxvt*foreground: #e4e4ef
+URxvt*background: #181818
+URxvt*color0:  #2E3436
+URxvt*color1:  #a40000
+URxvt*color2:  #4E9A06
+URxvt*color3:  #C4A000
+URxvt*color4:  #3465A4
+URxvt*color5:  #75507B
+URxvt*color6:  #ce5c00
+URxvt*color7:  #babdb9
+URxvt*color8:  #555753
+URxvt*color9:  #EF2929
+URxvt*color10: #8AE234
+URxvt*color11: #FCE94F
+URxvt*color12: #729FCF
+URxvt*color13: #AD7FA8
+URxvt*color14: #fcaf3e
+URxvt*color15: #EEEEEC
+
+URxvt.perl-ext-common:  resize-font,matcher
+URxvt.url-launcher: /usr/bin/firefox
+URxvt.matcher.button: 1
+
+URxvt.keysym.C-minus:  resize-font:smaller
+URxvt.keysym.C-equal:  resize-font:bigger
+URxvt.keysym.C-0:      resize-font:reset

@@ -11,6 +11,9 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstal
 
+# neovim instead of vim
+alias vim=nvim
+
 # .dotfiles
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
