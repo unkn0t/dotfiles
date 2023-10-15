@@ -24,15 +24,15 @@ zstyle ':completion:*' menu select
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-# add self-build bimaries to path
-export PATH="$PATH:/home/innokentiy/bin"
+# update mirrors list
+alias update-mirrors='export TMPFILE="$(mktemp)"; \
+    sudo true; \
+    rate-mirrors --save=$TMPFILE --protocol=http --protocol=https arch \
+    && sudo mv /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist-backup \
+      && sudo mv $TMPFILE /etc/pacman.d/mirrorlist'
 
 # update mirrors list and packages
-alias update-all='export TMPFILE="$(mktemp)"; \
-    sudo true; \
-    rate-mirrors --save=$TMPFILE --protocol=https arch --max-delay=21600 \
-    && sudo mv /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist-backup \
-      && sudo mv $TMPFILE /etc/pacman.d/mirrorlist \
-      && paru -Syyu --skipreview'
+alias update-all='update-mirrors && paru -Syyu --skipreview'
 
-
+# Go path
+export PATH=$PATH:/usr/local/go/bin

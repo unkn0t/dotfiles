@@ -6,7 +6,7 @@ Xft.hintstyle:  hintmedium
 URxvt.termName: rxvt
 URxvt*depth: 32
 URxvt.transparent: false
-URxvt.font: xft:Iosevka Nerd Font Propo:size=12
+URxvt.font: xft:Iosevka:size=12
 URxvt.scrollBar: false
 
 ! Jellybeans Terminal Colours

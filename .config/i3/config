@@ -25,8 +25,8 @@ exec --no-startup-id dex --autostart --environment i3
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 exec_always --no-startup-id xset +dpms dpms 0 300 300
-exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-bindsym $mod+l exec i3lock --ignore-empty-password -c 000000
+# exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+bindsym $mod+l exec i3lock --ignore-empty-password
 
 # Nitrogen start and restore wallpaper
 exec --no-startup-id nitrogen --restore
@@ -185,3 +185,9 @@ bar {
 }
 
 hide_edge_borders both
+
+for_window [window_role="PictureInPicture"] sticky enable
+
+# Screenshot bind
+bindsym --release Print exec import ~/Downloads/screenshot.png
+
