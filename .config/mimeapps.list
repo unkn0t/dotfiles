@@ -1,0 +1,6 @@
+[Default Applications]
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop
+x-scheme-handler/tonsite=org.telegram.desktop._b1496cc24433c922c5f57e93e4a4868c.desktop
+
+[Added Associations]
+x-scheme-handler/tonsite=org.telegram.desktop._b1496cc24433c922c5f57e93e4a4868c.desktop;

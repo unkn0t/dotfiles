@@ -3,8 +3,9 @@ name = "rust"
 auto-format = true
 
 [language-server.rust-analyzer]
-config = { imports = { granularity = { group = "module" }}, checkOnSave = { command = "clippy", allTargets = false } }
+config = { imports = { granularity = { group = "module" }}, checkOnSave = { command = "clippy" } }
 
 [[language]]
 name = "markdown"
 formatter = { command = "dprint", args = ["fmt", "--stdin", "md"]}
+

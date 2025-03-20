@@ -1,0 +1,1841 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="VoxelEngine" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="19ugdpoyjbojn" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/commons.hpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"commons.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/gl_util.hpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"gl_util.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Viewport.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="64">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Viewport.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/TextureAnimation.hpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TextureAnimation.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/TextureAnimation.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="64">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TextureAnimation.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Framebuffer.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="448">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Framebuffer.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Texture.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="96">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Texture.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/GLTexture.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret selection-end-line="30" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"GLTexture.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/vulkan/VkTexture.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="352">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"VkTexture.cpp","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/DrawContext.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="288">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DrawContext.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/DrawContext.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="224">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DrawContext.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Cubemap.hpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Cubemap.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Cubemap.cpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Cubemap.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Batch3D.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <marker date="1738069349438" expanded="true" signature="14:122" ph="##include ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Batch3D.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Batch3D.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="96">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Batch3D.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Mesh.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <marker date="1738069349438" expanded="true" signature="14:82" ph="##include ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Mesh.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/MeshData.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <marker date="1738069349438" expanded="true" signature="14:83" ph="##include ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MeshData.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Mesh.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="64">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Mesh.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/window/Window.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="480">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding>
+                <marker date="1738069349451" expanded="true" signature="14:151" ph="##include ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Window.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/window/Window.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="160">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Window.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/vulkan/VkTexture.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="928">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"VkTexture.hpp","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/GLTexture.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="192">
+              <caret line="11" column="1" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"GLTexture.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/core/Viewport.cpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Viewport.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/render/WorldRenderer.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1056">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"WorldRenderer.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/frontend/screens/LevelScreen.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1344">
+              <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LevelScreen.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/frontend/screens/LevelScreen.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="6048">
+              <caret line="223" column="21" selection-start-line="223" selection-start-column="21" selection-end-line="223" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LevelScreen.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/graphics/render/WorldRenderer.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="8032">
+              <caret line="303" column="20" selection-start-line="303" selection-start-column="20" selection-end-line="303" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"WorldRenderer.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2784">
+              <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"src/CMakeLists.txt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,15,105,99,111,110,115,47,67,77,97,107,101,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,67,77,97,107,101,46,115,118,103,26,18,99,111,109,46,105,110,116,101,108,108,105,106,46,99,108,105,111,110,40,-99,-66,-40,-99,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1952">
+              <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CMakeLists.txt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,15,105,99,111,110,115,47,67,77,97,107,101,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,67,77,97,107,101,46,115,118,103,26,18,99,111,109,46,105,110,116,101,108,108,105,106,46,99,108,105,111,110,40,-99,-66,-40,-99,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/engine/Engine.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2176">
+              <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Engine.hpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C/C++ Header": {
+      "usageCount": 46,
+      "lastUsed": 1739620095392
+    },
+    "C/C++": {
+      "usageCount": 34,
+      "lastUsed": 1739620095400
+    },
+    "CMakeLists.txt": {
+      "usageCount": 6,
+      "lastUsed": 1739620095373
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#include &lt;GL/glew.h&gt;</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/graphics/core</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/innokentiy/code/cpp/VoxelEngine-Cpp/CMakeLists.txt&quot;,
+    &quot;/home/innokentiy/code/cpp/VoxelEngine-Cpp/src/CMakeLists.txt&quot;,
+    &quot;/home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/core/vulkan/VkTexture.hpp&quot;,
+    &quot;/home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/core/vulkan/VkTexture.cpp&quot;,
+    &quot;/home/innokentiy/code/cpp/VoxelEngine-Cpp/src/window/Window.cpp&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="80" lastUsage="1739620095400" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="6" lastUsage="1739620095373" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VoxelEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VoxelEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VoxelEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VoxelEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/core}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VoxelEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/core/vulkan}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VoxelEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/window}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="VoxelEngine" />
+            <item name="VoxelEngine" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="VoxelEngine-Cpp" />
+              <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debugwithasan" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="cmake-build-debugwithasan" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/cmake-build-debugwithasan}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="config" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/content" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="content" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/content}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/dev" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="dev" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/dev}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/doc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="doc" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/doc}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/export" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="export" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/export}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/res" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/res}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/assets" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assets" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/assets}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/audio" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="audio" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/audio}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/coders" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="coders" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/coders}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/content" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="content" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/content}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/data" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="data" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/data}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/debug" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="debug" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/debug}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/devtools" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="devtools" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/devtools}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/engine" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="engine" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/engine}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/files" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="files" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/files}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/frontend" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="frontend" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/frontend}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/graphics" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="graphics" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/graphics/commons" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="commons" />
+                    <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/commons}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="core" />
+                    <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/core}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/vulkan" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="vulkan" />
+                      <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/core/vulkan}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/vulkan/VkTexture.cpp" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="VkTexture.cpp" />
+                        <item name="VkTexture.cpp" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/vulkan/VkTexture.hpp" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="VkTexture.hpp" />
+                        <item name="VkTexture.hpp" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Atlas.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Atlas.cpp" />
+                      <item name="Atlas.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Atlas.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Atlas.hpp" />
+                      <item name="Atlas.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Batch2D.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Batch2D.cpp" />
+                      <item name="Batch2D.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Batch2D.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Batch2D.hpp" />
+                      <item name="Batch2D.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Batch3D.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Batch3D.cpp" />
+                      <item name="Batch3D.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Batch3D.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Batch3D.hpp" />
+                      <item name="Batch3D.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/commons.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="commons.cpp" />
+                      <item name="commons.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/commons.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="commons.hpp" />
+                      <item name="commons.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Cubemap.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Cubemap.cpp" />
+                      <item name="Cubemap.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Cubemap.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Cubemap.hpp" />
+                      <item name="Cubemap.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/DrawContext.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="DrawContext.cpp" />
+                      <item name="DrawContext.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/DrawContext.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="DrawContext.hpp" />
+                      <item name="DrawContext.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Font.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Font.cpp" />
+                      <item name="Font.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Font.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Font.hpp" />
+                      <item name="Font.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Framebuffer.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Framebuffer.cpp" />
+                      <item name="Framebuffer.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Framebuffer.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Framebuffer.hpp" />
+                      <item name="Framebuffer.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/gl_util.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="gl_util.hpp" />
+                      <item name="gl_util.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/GLTexture.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="GLTexture.cpp" />
+                      <item name="GLTexture.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/GLTexture.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="GLTexture.hpp" />
+                      <item name="GLTexture.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/ImageData.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="ImageData.cpp" />
+                      <item name="ImageData.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/ImageData.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="ImageData.hpp" />
+                      <item name="ImageData.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/LineBatch.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="LineBatch.cpp" />
+                      <item name="LineBatch.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/LineBatch.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="LineBatch.hpp" />
+                      <item name="LineBatch.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Mesh.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Mesh.cpp" />
+                      <item name="Mesh.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Mesh.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Mesh.hpp" />
+                      <item name="Mesh.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/MeshData.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="MeshData.hpp" />
+                      <item name="MeshData.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/PostProcessing.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="PostProcessing.cpp" />
+                      <item name="PostProcessing.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/PostProcessing.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="PostProcessing.hpp" />
+                      <item name="PostProcessing.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Shader.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Shader.cpp" />
+                      <item name="Shader.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Shader.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Shader.hpp" />
+                      <item name="Shader.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Texture.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Texture.cpp" />
+                      <item name="Texture.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Texture.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Texture.hpp" />
+                      <item name="Texture.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/TextureAnimation.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="TextureAnimation.cpp" />
+                      <item name="TextureAnimation.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/TextureAnimation.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="TextureAnimation.hpp" />
+                      <item name="TextureAnimation.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Viewport.cpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Viewport.cpp" />
+                      <item name="Viewport.cpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/graphics/core/Viewport.hpp" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Viewport.hpp" />
+                      <item name="Viewport.hpp" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/graphics/render" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="render" />
+                    <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/render}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/graphics/ui" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ui" />
+                    <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/graphics/ui}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/interfaces" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="interfaces" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/interfaces}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/items" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="items" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/items}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/lighting" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lighting" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/lighting}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/logic" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="logic" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/logic}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/maths" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="maths" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/maths}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/network" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="network" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/network}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/objects" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="objects" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/objects}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/physics" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="physics" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/physics}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/presets" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="presets" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/presets}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/util" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="util" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/util}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/voxels" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="voxels" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/voxels}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/window" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="window" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/window}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/Camera.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Camera.cpp" />
+                    <item name="Camera.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/Camera.hpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Camera.hpp" />
+                    <item name="Camera.hpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/Events.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Events.cpp" />
+                    <item name="Events.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/Events.hpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Events.hpp" />
+                    <item name="Events.hpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/input.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="input.cpp" />
+                    <item name="input.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/input.hpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="input.hpp" />
+                    <item name="input.hpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/Window.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Window.cpp" />
+                    <item name="Window.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/window/Window.hpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Window.hpp" />
+                    <item name="Window.hpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/world" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="world" />
+                  <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/src/world}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/CMakeLists.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                  <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/constants.hpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="constants.hpp" />
+                  <item name="constants.hpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/core_defs.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="core_defs.cpp" />
+                  <item name="core_defs.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/core_defs.hpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="core_defs.hpp" />
+                  <item name="core_defs.hpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/delegates.hpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="delegates.hpp" />
+                  <item name="delegates.hpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="main.cpp" />
+                  <item name="main.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/settings.hpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="settings.hpp" />
+                  <item name="settings.hpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/typedefs.hpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="typedefs.hpp" />
+                  <item name="typedefs.hpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/test" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/test}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vctest" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="vctest" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/vctest}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/worlds" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="worlds" />
+                <item name="dir{file:///home/innokentiy/code/cpp/VoxelEngine-Cpp/worlds}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clang-format" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text=".clang-format" />
+                <item name=".clang-format" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.cmake-format.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text=".cmake-format.py" />
+                <item name=".cmake-format.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="vcs/ignore_file.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CHANGELOG.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/MarkdownPlugin.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="CHANGELOG.md" />
+                <item name="CHANGELOG.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakeLists.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakePresets.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="CMakePresets.json" />
+                <item name="CMakePresets.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/compile_flags.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="compile_flags.txt" />
+                <item name="compile_flags.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/controls.toml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/toml-file.svg" iconPlugin="org.toml.lang" isLeaf="true" text="controls.toml" />
+                <item name="controls.toml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Dockerfile" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/docker.svg" iconPlugin="Docker" isLeaf="true" text="Dockerfile" />
+                <item name="Dockerfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/flake.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="flake.lock" />
+                <item name="flake.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/flake.nix" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="flake.nix" />
+                <item name="flake.nix" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/latest.log" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="latest.log" />
+                <item name="latest.log" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/MarkdownPlugin.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/run.sh" />
+                  </map>
+                </attributes>
+                <data iconPath="nodes/console.svg" iconPlugin="com.intellij" isLeaf="true" text="run.sh" />
+                <item name="run.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.toml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/toml-file.svg" iconPlugin="org.toml.lang" isLeaf="true" text="settings.toml" />
+                <item name="settings.toml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vcpkg.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="vcpkg.json" />
+                <item name="vcpkg.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.VoxelEngine" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10135000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2330729" />
+      <window_info id="Commit" order="1" weight="0.2330729" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.4684729" />
+      <window_info anchor="bottom" id="CMake" order="6" weight="0.4684729" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.4684729" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.4684729" left="0.2330729" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Notifications</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>CMake</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="107" width="1006" height="847" key="#New_File_Extensions" timestamp="1738084742503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="107" width="1006" height="847" key="#New_File_Extensions/0.0.1920.1080@0.0.1920.1080" timestamp="1738084742503" />
+    <state x="549" y="100" width="987" height="801" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1738080260819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="549" y="100" width="987" height="801" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1738080260819" />
+    <state width="1818" height="423" key="GridCell.Tab.0.bottom" timestamp="1738088563970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563970" />
+    <state width="1818" height="423" key="GridCell.Tab.0.center" timestamp="1738088563970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563970" />
+    <state width="1818" height="423" key="GridCell.Tab.0.left" timestamp="1738088563970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563970" />
+    <state width="1818" height="423" key="GridCell.Tab.0.right" timestamp="1738088563970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563970" />
+    <state width="1818" height="423" key="GridCell.Tab.1.bottom" timestamp="1738088563971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563971" />
+    <state width="1818" height="423" key="GridCell.Tab.1.center" timestamp="1738088563971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563971" />
+    <state width="1818" height="423" key="GridCell.Tab.1.left" timestamp="1738088563971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563971" />
+    <state width="1818" height="423" key="GridCell.Tab.1.right" timestamp="1738088563971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="423" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1738088563971" />
+    <state x="341" y="-77" width="1522" height="908" key="SettingsEditor" timestamp="1738080786356">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="341" y="-77" width="1522" height="908" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1738080786356" />
+    <state x="797" y="171" width="796" height="718" key="find.popup" timestamp="1738085701440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="797" y="171" width="796" height="718" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1738085701440" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/network/curltest.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/coders/binary_json.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vctest/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/network/Network.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2016" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/network/Network.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/ArgsReader.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/command_line.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Mainloop.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Engine.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="198" column="5" lean-forward="true" selection-start-line="198" selection-start-column="5" selection-end-line="198" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Batch2D.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2176">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/screens/Screen.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/ui/GUI.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/Content.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic/EngineController.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typedefs.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/ImageData.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9816">
+          <folding>
+            <marker date="1738069349438" expanded="true" signature="0:106" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/ImageData.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <folding>
+            <marker date="1738069349438" expanded="true" signature="14:56" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Texture.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Texture.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Viewport.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Cubemap.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/DrawContext.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/TextureAnimation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/DrawContext.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Cubemap.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/TextureAnimation.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/gl_util.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Framebuffer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Batch3D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/window/Window.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/MeshData.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1738069349438" expanded="true" signature="14:83" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/vulkan/VkTexture.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/window/Window.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <marker date="1738069349451" expanded="true" signature="14:151" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/GLTexture.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="1" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Mesh.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/render/WorldRenderer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/commons.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Batch3D.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1738069349438" expanded="true" signature="14:122" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Viewport.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/GLTexture.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2784">
+          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1952">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/render/WorldRenderer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8032">
+          <caret line="303" column="20" selection-start-line="303" selection-start-column="20" selection-end-line="303" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Engine.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/Mesh.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1738069349438" expanded="true" signature="14:82" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/screens/LevelScreen.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/screens/LevelScreen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6048">
+          <caret line="223" column="21" selection-start-line="223" selection-start-column="21" selection-end-line="223" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphics/core/vulkan/VkTexture.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

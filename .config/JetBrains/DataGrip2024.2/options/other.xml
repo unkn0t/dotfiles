@@ -1,0 +1,58 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="16.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+    <option name="experimentalSingleStripe" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "DG.SingleStripe.Customization2": "true",
+    "DG.SingleStripe.LastLocale": "en",
+    "DbRenameDialog.previewExpanded": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "DB-242.21829.162",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "DB-242.21829.162",
+    "NextRunPlatformUpdateBuild": "DB-243.24978.79",
+    "NextRunPlatformUpdateVersion": "2024.3.5",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "com.intellij.database.actions.DbDeleteProvider$2.proportion": "0.5",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.7584541",
+    "enter_selection_count": "5",
+    "evlsprt3.242": "5",
+    "experimental.ui.used.version": "242.21829.162",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "19.5",
+    "fontSizeToResetEditor": "19.5",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "DB-242.21829.162"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/innokentiy/Downloads/airport_db.sql",
+      "/home/innokentiy/Downloads/passengers(3).sql",
+      "/home/innokentiy/Downloads/passengers(2).sql",
+      "/home/innokentiy/Downloads/passengers(1).sql",
+      "/home/innokentiy/Downloads/passengers.sql",
+      "/home/innokentiy/Downloads/airline.sql"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

@@ -1,0 +1,652 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="huawei" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="19ugdpoyjbojn" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/float16.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="722">
+              <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"float16.cpp","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/int8.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="480">
+              <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"int8.cpp","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/float.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2784">
+              <caret line="92" column="9" selection-end-line="176" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"float.cpp","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/metrics.h">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="864">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+              <folding>
+                <marker date="1739699544169" expanded="true" signature="37:110" ph="##include ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"metrics.h","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 34,
+      "lastUsed": 1739870537074
+    },
+    "C/C++": {
+      "usageCount": 23,
+      "lastUsed": 1740147960722
+    },
+    "GitIgnore file": {
+      "usageCount": 5,
+      "lastUsed": 1739689094156
+    },
+    "CMakeLists.txt": {
+      "usageCount": 10,
+      "lastUsed": 1739864241161
+    },
+    "DIFF": {
+      "usageCount": 2,
+      "lastUsed": 1740147952077
+    },
+    "C/C++ Header": {
+      "usageCount": 10,
+      "lastUsed": 1740147945645
+    },
+    "disassembly": {
+      "usageCount": 3,
+      "lastUsed": 1739711684753
+    },
+    "Python": {
+      "usageCount": 2,
+      "lastUsed": 1739732563053
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-128</find>
+      <find>compressed</find>
+      <find>decompressed</find>
+      <find>data</find>
+      <find />
+      <find>sdefl_ilog2</find>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>encoded</replace>
+      <replace>decoded</replace>
+      <replace>decompressed</replace>
+      <replace>int64_t</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/innokentiy/code/cpp/huawei/main.cpp",
+    "/home/innokentiy/code/cpp/huawei/.gitignore",
+    "/home/innokentiy/code/cpp/huawei/metrics.h",
+    "/home/innokentiy/code/cpp/huawei/old_int8.cpp",
+    "/home/innokentiy/code/cpp/huawei/int8.py",
+    "/home/innokentiy/code/cpp/huawei/float16.cpp",
+    "/home/innokentiy/code/cpp/huawei/CMakeLists.txt",
+    "/home/innokentiy/code/cpp/huawei/float.cpp",
+    "/home/innokentiy/code/cpp/huawei/int8.cpp"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ASM">
+      <summary usageCount="3" lastUsage="1739711684753" />
+    </language>
+    <language id="C++">
+      <summary usageCount="33" lastUsage="1740147960722" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="10" lastUsage="1739864241164" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="5" lastUsage="1739689094156" />
+    </language>
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1739732563053" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="34" lastUsage="1739870537074" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="huawei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/huawei}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huawei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/huawei}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/cpp/huawei/tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="huawei" />
+            <item name="huawei" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="huawei" />
+              <item name="dir{file:///home/innokentiy/code/cpp/huawei}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file:///home/innokentiy/code/cpp/huawei/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                <item name="dir{file:///home/innokentiy/code/cpp/huawei/build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="tests" />
+                <item name="dir{file:///home/innokentiy/code/cpp/huawei/tests}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/70" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="70" />
+                  <item name="70" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/275" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="275" />
+                  <item name="275" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/302" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="302" />
+                  <item name="302" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/340" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="340" />
+                  <item name="340" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/443" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="443" />
+                  <item name="443" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/654" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="654" />
+                  <item name="654" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakeLists.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/float.cpp" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="float.cpp" />
+                <item name="float.cpp" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/float16.cpp" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="float16.cpp" />
+                <item name="float16.cpp" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/int8.cpp" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="int8.cpp" />
+                <item name="int8.cpp" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/metrics.h" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="metrics.h" />
+                <item name="metrics.h" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/old_int8.cpp" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="old_int8.cpp" />
+                <item name="old_int8.cpp" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/original.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="original.txt" />
+                <item name="original.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/output.png" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="output.png" />
+                <item name="output.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/output.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="output.txt" />
+                <item name="output.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/stb_image_write.h" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="stb_image_write.h" />
+                <item name="stb_image_write.h" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.int8" />
+      <element setting="CMake Application.float" />
+      <element setting="CMake Application.float16" />
+      <element setting="CMake Application.old_int8" />
+      <element setting="CMake Application.huawei" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18828125" />
+      <window_info id="Commit" order="1" weight="0.18828125" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32955664" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.25073892" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" visible="true" weight="0.10098522" />
+      <window_info anchor="bottom" id="CMake" order="6" weight="0.25073892" />
+      <window_info anchor="bottom" id="Python Packages" order="7" weight="0.32955664" />
+      <window_info anchor="bottom" id="Run" order="8" show_stripe_button="false" weight="0.10098522" />
+      <window_info anchor="bottom" id="Debug" order="9" show_stripe_button="false" weight="0.8507389" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.10098522" left="0.18828125" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Messages</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>CMake</value>
+      <value>Python Packages</value>
+      <value>Debug</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="36" width="987" height="801" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1739797121775">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="570" y="36" width="987" height="801" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1739797121775" />
+    <state x="796" y="165" width="536" height="606" key="FileChooserDialogImpl" timestamp="1739733154303">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="796" y="165" width="536" height="606" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1739733154303" />
+    <state width="1818" height="50" key="GridCell.Tab.0.bottom" timestamp="1739892197688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="50" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1739892197688" />
+    <state width="1818" height="50" key="GridCell.Tab.0.center" timestamp="1739892197688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="50" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1739892197688" />
+    <state width="1818" height="50" key="GridCell.Tab.0.left" timestamp="1739892197688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="50" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1739892197688" />
+    <state width="1818" height="50" key="GridCell.Tab.0.right" timestamp="1739892197688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="50" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1739892197688" />
+    <state width="1818" height="267" key="GridCell.Tab.1.bottom" timestamp="1739718343466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="267" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343466" />
+    <state width="1818" height="267" key="GridCell.Tab.1.center" timestamp="1739718343466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="267" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343466" />
+    <state width="1818" height="267" key="GridCell.Tab.1.left" timestamp="1739718343466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="267" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343466" />
+    <state width="1818" height="267" key="GridCell.Tab.1.right" timestamp="1739718343466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="267" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343466" />
+    <state width="1818" height="811" key="GridCell.Tab.2.bottom" timestamp="1739718343436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343436" />
+    <state width="1818" height="811" key="GridCell.Tab.2.center" timestamp="1739718343436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343436" />
+    <state width="1818" height="811" key="GridCell.Tab.2.left" timestamp="1739718343436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343436" />
+    <state width="1818" height="811" key="GridCell.Tab.2.right" timestamp="1739718343436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343436" />
+    <state width="1818" height="811" key="GridCell.Tab.3.bottom" timestamp="1739718343437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343437" />
+    <state width="1818" height="811" key="GridCell.Tab.3.center" timestamp="1739718343436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343436" />
+    <state width="1818" height="811" key="GridCell.Tab.3.left" timestamp="1739718343436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343436" />
+    <state width="1818" height="811" key="GridCell.Tab.3.right" timestamp="1739718343436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343436" />
+    <state width="1818" height="811" key="GridCell.Tab.4.bottom" timestamp="1739718343437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343437" />
+    <state width="1818" height="811" key="GridCell.Tab.4.center" timestamp="1739718343437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343437" />
+    <state width="1818" height="811" key="GridCell.Tab.4.left" timestamp="1739718343437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343437" />
+    <state width="1818" height="811" key="GridCell.Tab.4.right" timestamp="1739718343437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="811" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1739718343437" />
+    <state x="324" y="-44" width="1241" height="908" key="SettingsEditor" timestamp="1739716257839">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="324" y="-44" width="1241" height="908" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1739716257839" />
+    <state x="443" y="109" width="1006" height="662" key="Vcs.Push.Dialog.v2" timestamp="1739706724721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="443" y="109" width="1006" height="662" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1739706724721" />
+    <state x="624" y="165" width="661" height="731" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1739648133157">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="165" width="661" height="731" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1739648133157" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="22201" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/654">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/275">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/70">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="9" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/14.2.1/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="1012" column="6" selection-start-line="1012" selection-start-column="6" selection-end-line="1012" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://1" />
+    <entry file="cidr-memory-view://3" />
+    <entry file="cidr-memory-view://5" />
+    <entry file="file:///usr/include/c++/14.2.1/bits/stl_algobase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1543" column="4" selection-start-line="1543" selection-start-column="4" selection-end-line="1543" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/int8.py" />
+    <entry file="file://$PROJECT_DIR$/old_int8.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stb_image_write.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/443">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="1098" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="1098" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/340">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="2" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/302">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <marker date="1739699544169" expanded="true" signature="37:110" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/float.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2784">
+          <caret line="92" column="9" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/float16.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/int8.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

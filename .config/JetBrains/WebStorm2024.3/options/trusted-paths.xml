@@ -1,0 +1,25 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Downloads/web-dev" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/onboarding-project" value="true" />
+        <entry key="$USER_HOME$/code/rust/hello-wasm" value="true" />
+        <entry key="$USER_HOME$/code/web/Lab1" value="true" />
+        <entry key="$USER_HOME$/code/web/Lab2" value="true" />
+        <entry key="$USER_HOME$/code/web/Lab3" value="true" />
+        <entry key="$USER_HOME$/code/web/Lab4/kaspi-products" value="true" />
+        <entry key="$USER_HOME$/code/web/Lab4/my-first-angular-app" value="true" />
+        <entry key="$USER_HOME$/code/web/Lab6/albums" value="true" />
+        <entry key="$USER_HOME$/code/web/Lab6/queen-web" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/code/web" />
+      </list>
+    </option>
+  </component>
+</application>

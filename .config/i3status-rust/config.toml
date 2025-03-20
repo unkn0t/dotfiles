@@ -10,6 +10,10 @@ idle-fg = "#abcdef"
 icons = "awesome4"
 
 [[block]]
+block = "backlight"
+missing_format = ""
+
+[[block]]
 block = "disk_space"
 path = "/"
 info_type = "available"

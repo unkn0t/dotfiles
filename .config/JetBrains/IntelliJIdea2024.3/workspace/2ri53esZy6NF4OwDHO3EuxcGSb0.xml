@@ -1,0 +1,540 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="EmployeePractice" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="employeedb@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="employeedb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="employeedb: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="employeedb@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="employeedb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3qxnml1z32r4z" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/EmployeeTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="160">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"EmployeeTest.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/com/example/business/EmployeeStockPlan.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="320">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"EmployeeStockPlan.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/com/example/domain/Employee.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="611">
+              <caret line="54" column="85" selection-start-line="54" selection-start-column="85" selection-end-line="54" selection-end-column="85" />
+              <folding>
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Employee.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/com/example/domain/Manager.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-207">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding>
+                <element signature="e#1575#1576#0" expanded="true" />
+                <element signature="e#1657#1658#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Manager.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/com/example/domain/Admin.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="96">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Admin.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/com/example/domain/Engineer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="96">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Engineer.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/com/example/domain/Director.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="512">
+              <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Director.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 36,
+      "lastUsed": 1740736816298
+    },
+    "GitIgnore file": {
+      "usageCount": 1,
+      "lastUsed": 1737029024049
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1740737998206
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Social_security_number</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>SocialSecurityNumber</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/domain/Admin.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/domain/Engineer.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/domain/Employee.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/domain/Director.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/business/EmployeeStockPlan.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/EmployeeTest.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/domain/Manager.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/business/B.java",
+    "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/ABTester.java"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1737029024052" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="36" lastUsage="1740736816298" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1740737998206" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EmployeePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/business}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/domain}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="EmployeePractice" />
+            <item name="EmployeePractice" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="EmployeePractice" />
+              <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/out" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="out" />
+                <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/out}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/com/example" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example" />
+                  <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/com/example/business" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="business" />
+                    <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/business}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/com/example/business/EmployeeStockPlan.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="EmployeeStockPlan" />
+                      <item name="EmployeeStockPlan" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/com/example/domain" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="domain" />
+                    <item name="dir{file:///home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice/src/com/example/domain}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/com/example/domain/Admin.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Admin" />
+                      <item name="Admin" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/com/example/domain/Director.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Director" />
+                      <item name="Director" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/com/example/domain/Employee.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Employee" />
+                      <item name="Employee" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/com/example/domain/Engineer.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Engineer" />
+                      <item name="Engineer" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/com/example/domain/Manager.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Manager" />
+                      <item name="Manager" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/com/example/EmployeeTest.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="EmployeeTest" />
+                    <item name="EmployeeTest" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/EmployeePractice.iml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ideaModule.svg" iconPlugin="com.intellij" isLeaf="true" text="EmployeePractice.iml" />
+                <item name="EmployeePractice.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10718000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17005208" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.65665025" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.65665025" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32955664" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3294271" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32967606" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.3294271" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.65665025" left="0.17005208" right="0.3294271" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Notifications</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="122" width="840" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1740737997965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="534" y="122" width="840" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1740737997965" />
+    <state x="713" y="130" width="483" height="801" key="#com.intellij.ide.util.MemberChooser" timestamp="1737029805513">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="713" y="130" width="483" height="801" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1737029805513" />
+    <state x="617" y="167" key="FileChooserDialogImpl" timestamp="1740738095719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="617" y="167" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1740738095719" />
+    <state width="1818" height="614" key="GridCell.Tab.0.bottom" timestamp="1738319613654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="614" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1738319613654" />
+    <state width="1818" height="614" key="GridCell.Tab.0.center" timestamp="1738319613653">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="614" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1738319613653" />
+    <state width="1818" height="614" key="GridCell.Tab.0.left" timestamp="1738319613653">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="614" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1738319613653" />
+    <state width="1818" height="614" key="GridCell.Tab.0.right" timestamp="1738319613654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="614" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1738319613654" />
+    <state x="324" y="-44" width="1241" height="908" key="SettingsEditor" timestamp="1737631408721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="324" y="-44" width="1241" height="908" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1737631408721" />
+    <state x="554" y="63" width="1067" height="875" key="new project wizard" timestamp="1737631688000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="63" width="1067" height="875" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1737631688000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/domain/Engineer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="54" column="85" selection-start-line="54" selection-start-column="85" selection-end-line="54" selection-end-column="85" />
+          <folding>
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/business/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/business/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/ABTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/domain/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/business/EmployeeStockPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/domain/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/domain/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3b4537a2-3e45-4ebb-af88-c8e3cec1a963/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

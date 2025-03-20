@@ -1,0 +1,1628 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ton" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:dependabot" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:dependabot" type="80986c07:BranchNodeDescriptor$Group" />
+        <item name="GROUP:github_actions" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:dependabot" type="80986c07:BranchNodeDescriptor$Group" />
+        <item name="GROUP:github_actions" type="80986c07:BranchNodeDescriptor$Group" />
+        <item name="GROUP:actions" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:dependabot" type="80986c07:BranchNodeDescriptor$Group" />
+        <item name="GROUP:github_actions" type="80986c07:BranchNodeDescriptor$Group" />
+        <item name="GROUP:github" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:feature" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:hotfix" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:pr" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="TAG" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="msw1a3mo08zu" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/contest/solution/solution.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="320">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"solution.cpp","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contest/solution/contest-validate-query.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="349">
+              <caret line="262" column="16" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
+              <folding>
+                <marker date="1737118846506" expanded="false" signature="1825:2054" ph="/** Rejects the validation and logs an error message. ... */" />
+                <marker date="1737118846506" expanded="false" signature="2137:2388" ph="{...}" />
+                <marker date="1737118846506" expanded="false" signature="2390:2653" ph="/** Rejects the validation and logs an error message. ... */" />
+                <marker date="1737118846506" expanded="false" signature="2756:2863" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"contest-validate-query.cpp","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/contest/solution/contest-validate-query.hpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="5440">
+              <caret line="216" column="12" selection-start-line="216" selection-start-column="12" selection-end-line="216" selection-end-column="12" />
+              <folding>
+                <marker date="1737113327893" expanded="true" signature="14:302" ph="##include ..." />
+                <marker date="1737113327893" expanded="false" signature="450:908" ph="{...}" />
+                <marker date="1737113327893" expanded="false" signature="928:1132" ph="{...}" />
+                <marker date="1737113327893" expanded="false" signature="1152:1557" ph="{...}" />
+                <marker date="1737113327893" expanded="false" signature="1615:1664" ph="{...}" />
+                <marker date="1737113327893" expanded="false" signature="1721:1770" ph="{...}" />
+                <marker date="1737113327893" expanded="false" signature="1845:1899" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"contest-validate-query.hpp","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C/C++ Header": {
+      "usageCount": 19,
+      "lastUsed": 1738068427932
+    },
+    "C/C++": {
+      "usageCount": 12,
+      "lastUsed": 1738068428334
+    },
+    "GitIgnore file": {
+      "usageCount": 1,
+      "lastUsed": 1737041766195
+    },
+    "CMakeLists.txt": {
+      "usageCount": 3,
+      "lastUsed": 1737101612171
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1737041396787
+    },
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1737041695335
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1737102343774
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prepare_action_phase</find>
+      <find>check_one_trans</find>
+      <find>create</find>
+      <find>start_up</find>
+      <find>Block::cell_unpack</find>
+      <find>cell_unpack</find>
+      <find>Block</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/crypto/block</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/innokentiy/code/challenge/ton/contest/grader/CMakeLists.txt&quot;,
+    &quot;/home/innokentiy/code/challenge/ton/crypto/vm/boc.cpp&quot;,
+    &quot;/home/innokentiy/code/challenge/ton/crypto/vm/cells/DataCell.cpp&quot;,
+    &quot;/home/innokentiy/code/challenge/ton/contest/solution/solution.cpp&quot;,
+    &quot;/home/innokentiy/code/challenge/ton/contest/solution/contest-validate-query.hpp&quot;,
+    &quot;/home/innokentiy/code/challenge/ton/contest/solution/contest-validate-query.cpp&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="31" lastUsage="1738068428334" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="3" lastUsage="1737101612171" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1737041766195" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1737041396787" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/contest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/contest}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/contest/grader}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/contest}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/contest/solution}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/block}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="TON" />
+            <item name="TON" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ton" />
+              <item name="dir{file:///home/innokentiy/code/challenge/ton}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/adnl" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="adnl" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/adnl}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/assembly" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assembly" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/assembly}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/blockchain-explorer" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="blockchain-explorer" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/blockchain-explorer}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/catchain" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="catchain" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/catchain}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMake" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="CMake" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/CMake}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/common" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="common" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/common}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/contest" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="contest" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/contest}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/contest/grader" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="grader" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/contest/grader}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/contest/grader/CMakeLists.txt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                    <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/contest/grader/grader.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="grader.cpp" />
+                    <item name="grader.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/contest/solution" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="solution" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/contest/solution}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/contest/solution/CMakeLists.txt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                    <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/contest/solution/contest-validate-query.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="contest-validate-query.cpp" />
+                    <item name="contest-validate-query.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/contest/solution/contest-validate-query.hpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="contest-validate-query.hpp" />
+                    <item name="contest-validate-query.hpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/contest/solution/solution.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="solution.cpp" />
+                    <item name="solution.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/contest/solution/solution.hpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="solution.hpp" />
+                    <item name="solution.hpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/create-hardfork" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="create-hardfork" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/create-hardfork}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/crypto" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="crypto" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/block" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="block" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/block}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/precompiled-smc" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="precompiled-smc" />
+                    <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/block/precompiled-smc}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/adjust-block.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="adjust-block.cpp" />
+                    <item name="adjust-block.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/Binlog.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Binlog.cpp" />
+                    <item name="Binlog.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/Binlog.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Binlog.h" />
+                    <item name="Binlog.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block.cpp" />
+                    <item name="block.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block.h" />
+                    <item name="block.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block.tlb" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="block.tlb" />
+                    <item name="block.tlb" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-auto.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-auto.cpp" />
+                    <item name="block-auto.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-auto.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-auto.h" />
+                    <item name="block-auto.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-binlog.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-binlog.h" />
+                    <item name="block-binlog.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-db.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-db.cpp" />
+                    <item name="block-db.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-db.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-db.h" />
+                    <item name="block-db.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-db-impl.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-db-impl.h" />
+                    <item name="block-db-impl.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-parse.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-parse.cpp" />
+                    <item name="block-parse.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/block-parse.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="block-parse.h" />
+                    <item name="block-parse.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/check-proof.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="check-proof.cpp" />
+                    <item name="check-proof.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/check-proof.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="check-proof.h" />
+                    <item name="check-proof.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/create-state.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="create-state.cpp" />
+                    <item name="create-state.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/dump-block.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="dump-block.cpp" />
+                    <item name="dump-block.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/mc-config.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="mc-config.cpp" />
+                    <item name="mc-config.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/mc-config.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="mc-config.h" />
+                    <item name="mc-config.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/output-queue-merger.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="output-queue-merger.cpp" />
+                    <item name="output-queue-merger.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/output-queue-merger.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="output-queue-merger.h" />
+                    <item name="output-queue-merger.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/test-block.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="test-block.cpp" />
+                    <item name="test-block.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/test-weight-distr.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="test-weight-distr.cpp" />
+                    <item name="test-weight-distr.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/transaction.cpp" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="transaction.cpp" />
+                    <item name="transaction.cpp" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/crypto/block/transaction.h" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="transaction.h" />
+                    <item name="transaction.h" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/common" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="common" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/common}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/ellcurve" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ellcurve" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/ellcurve}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/fift" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="fift" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/fift}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/func" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="func" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/func}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/funcfiftlib" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="funcfiftlib" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/funcfiftlib}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/keccak" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="keccak" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/keccak}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/openssl" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="openssl" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/openssl}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/parser" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="parser" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/parser}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/smartcont" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="smartcont" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/smartcont}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/smc-envelope" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="smc-envelope" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/smc-envelope}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/tl" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tl" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/tl}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/util" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="util" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/util}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/vm" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="vm" />
+                  <item name="dir{file:///home/innokentiy/code/challenge/ton/crypto/vm}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/CMakeLists.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                  <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/Ed25519.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Ed25519.cpp" />
+                  <item name="Ed25519.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/crypto/Ed25519.h" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="Ed25519.h" />
+                  <item name="Ed25519.h" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/dht" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="dht" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/dht}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/dht-server" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="dht-server" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/dht-server}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/doc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="doc" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/doc}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/docker" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="docker" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/docker}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/emulator" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="emulator" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/emulator}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/example" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="example" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/example}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/fec" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="fec" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/fec}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/http" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="http" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/http}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/keyring" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="keyring" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/keyring}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/keys" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="keys" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/keys}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lite-client" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lite-client" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/lite-client}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lite-client-docs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lite-client-docs" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/lite-client-docs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/memprof" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="memprof" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/memprof}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/overlay" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="overlay" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/overlay}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/rldp" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="rldp" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/rldp}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/rldp2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="rldp2" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/rldp2}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/rldp-http-proxy" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="rldp-http-proxy" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/rldp-http-proxy}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/storage" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="storage" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/storage}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tdactor" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tdactor" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tdactor}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tddb" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tddb" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tddb}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tdfec" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tdfec" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tdfec}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tdnet" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tdnet" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tdnet}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tdtl" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tdtl" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tdtl}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tdutils" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tdutils" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tdutils}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/terminal" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="terminal" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/terminal}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/test" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/test}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/third-party" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="third-party" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/third-party}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tl" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tl" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tl}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tl-utils" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tl-utils" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tl-utils}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tolk" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tolk" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tolk}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tolk-tester" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tolk-tester" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tolk-tester}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ton" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ton" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/ton}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tonlib" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tonlib" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/tonlib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/utils" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/utils}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/validator" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="validator" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/validator}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/validator-engine" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="validator-engine" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/validator-engine}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/validator-engine-console" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="validator-engine-console" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/validator-engine-console}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/validator-session" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="validator-session" />
+                <item name="dir{file:///home/innokentiy/code/challenge/ton/validator-session}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clang-format" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text=".clang-format" />
+                <item name=".clang-format" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clang_complete" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".clang_complete" />
+                <item name=".clang_complete" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="vcs/ignore_file.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitmodules" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitmodules" />
+                <item name=".gitmodules" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Changelog.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/MarkdownPlugin.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="Changelog.md" />
+                <item name="Changelog.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakeLists.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Dockerfile" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/DockerFile_1.svg" iconPlugin="Docker" isLeaf="true" text="Dockerfile" />
+                <item name="Dockerfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/git.cc.in" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="git.cc.in" />
+                <item name="git.cc.in" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/git.h" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="git.h" />
+                <item name="git.h" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/git_watcher.cmake" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="git_watcher.cmake" />
+                <item name="git_watcher.cmake" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/GPLv2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="GPLv2" />
+                <item name="GPLv2" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LGPLv2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="LGPLv2" />
+                <item name="LGPLv2" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE.LGPL" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE.LGPL" />
+                <item name="LICENSE.LGPL" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/MarkdownPlugin.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/recent_changelog.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/MarkdownPlugin.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="recent_changelog.md" />
+                <item name="recent_changelog.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/run-clang-format.sh" />
+                  </map>
+                </attributes>
+                <data iconPath="nodes/console.svg" iconPlugin="com.intellij" isLeaf="true" text="run-clang-format.sh" />
+                <item name="run-clang-format.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.contest-grader" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18875000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14140625" />
+      <window_info id="Commit" order="1" weight="0.14140625" />
+      <window_info id="Pull Requests" order="2" weight="0.14140625" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4408867" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.18669951" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.28423643" />
+      <window_info anchor="bottom" id="CMake" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.28423643" />
+      <window_info anchor="bottom" id="Profiler" order="8" weight="0.08029556" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.28423643" left="0.14140625" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Problems View</value>
+      <value>Pull Requests</value>
+      <value>Profiler</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="161" width="746" height="678" key="#Inspections" timestamp="1737101914164">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="579" y="161" width="746" height="678" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1737101914164" />
+    <state x="546" y="70" width="1010" height="801" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1737095867827">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="546" y="70" width="1010" height="801" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1737095867827" />
+    <state x="684" y="197" width="536" height="606" key="FileChooserDialogImpl" timestamp="1738068462126">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="684" y="197" width="536" height="606" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1738068462126" />
+    <state width="1818" height="236" key="GridCell.Tab.0.bottom" timestamp="1737124067225">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1737124067225" />
+    <state width="1818" height="236" key="GridCell.Tab.0.center" timestamp="1737124067225">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="236" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1737124067225" />
+    <state width="1818" height="236" key="GridCell.Tab.0.left" timestamp="1737124067225">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="236" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1737124067225" />
+    <state width="1818" height="236" key="GridCell.Tab.0.right" timestamp="1737124067225">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1818" height="236" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1737124067225" />
+    <state x="336" y="76" width="1241" height="908" key="SettingsEditor" timestamp="1737041866563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="336" y="76" width="1241" height="908" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1737041866563" />
+    <state x="644" y="385" key="VCS.ChangelistChooser" timestamp="1737102479377">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="644" y="385" key="VCS.ChangelistChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1737102479377" />
+    <state x="794" y="3" width="796" height="1077" key="find.popup" timestamp="1737112006604">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="3" width="796" height="1077" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1737112006604" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdutils/td/utils/Status.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/solution/solution.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdactor/td/actor/common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9498">
+          <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/block/transaction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2324">
+          <caret line="1778" column="18" selection-start-line="1778" selection-start-column="18" selection-end-line="1778" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/vm/boc.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/vm/cells/CellBuilder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdutils/td/utils/check.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/vm/cells/DataCell.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="221" column="6" selection-start-line="221" selection-start-column="6" selection-end-line="221" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/grader/grader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="142" column="7" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/grader/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/solution/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validator/interfaces/validator-manager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1126">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validator/interfaces/shard.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ton/ton-shard.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ton/ton-types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdutils/td/utils/logging.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="263" column="8" selection-start-line="263" selection-start-column="8" selection-end-line="263" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/tl/tlblib.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2910">
+          <caret line="270" column="7" selection-start-line="270" selection-start-column="7" selection-end-line="270" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/block/block-auto.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-705">
+          <caret line="12014" column="23" selection-start-line="12014" selection-start-column="18" selection-end-line="12014" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/block/block-auto.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tdactor/td/actor/core/Actor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1920">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/solution/solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/solution/contest-validate-query.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="216" column="12" selection-start-line="216" selection-start-column="12" selection-end-line="216" selection-end-column="12" />
+          <folding>
+            <marker date="1737113327893" expanded="true" signature="14:302" ph="##include ..." />
+            <marker date="1737113327893" expanded="false" signature="450:908" ph="{...}" />
+            <marker date="1737113327893" expanded="false" signature="928:1132" ph="{...}" />
+            <marker date="1737113327893" expanded="false" signature="1152:1557" ph="{...}" />
+            <marker date="1737113327893" expanded="false" signature="1615:1664" ph="{...}" />
+            <marker date="1737113327893" expanded="false" signature="1721:1770" ph="{...}" />
+            <marker date="1737113327893" expanded="false" signature="1845:1899" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/solution/contest-validate-query.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="262" column="16" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
+          <folding>
+            <marker date="1737118846506" expanded="false" signature="1825:2054" ph="/** Rejects the validation and logs an error message. ... */" />
+            <marker date="1737118846506" expanded="false" signature="2137:2388" ph="{...}" />
+            <marker date="1737118846506" expanded="false" signature="2390:2653" ph="/** Rejects the validation and logs an error message. ... */" />
+            <marker date="1737118846506" expanded="false" signature="2756:2863" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,129 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="AddFrameworkSupport" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,JavaFX-Scene-Builder&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="16.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "BuildView.Splitter.Proportion": "0.20077008",
+    "DBE.Default.Dialect": "",
+    "DbRenameDialog.previewExpanded": "true",
+    "ExpandBeforeRunStepsPanel": "false",
+    "InstalledPluginsSearchHistory": "ai",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.23654.189",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-243.23654.189",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.addSampleCodeState": "false",
+    "NewProjectWizard.generateOnboardingTips": "false",
+    "NewProjectWizard.gitState": "true",
+    "NewProjectWizard.gradleDslState": "GROOVY",
+    "NewProjectWizard.groupIdState": "com.dummyapps",
+    "NextRunPlatformUpdateBuild": "IU-243.25659.59",
+    "NextRunPlatformUpdateSelfBuild": "IU-243.23654.189",
+    "NextRunPlatformUpdateVersion": "2024.3.4.1",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "SettingsSearchHistory": "desktop\napplication\nai",
+    "ai.promo.window.was.actually.shown": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.5",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.util.projectWizard.MultiWebTemplateNewProjectWizard$createTemplateStep$1.selectedStep": "React",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Paths",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.243": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.23654.189",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "19.5",
+    "fontSizeToResetEditor": "19.5",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.fragment.hidden.redirectInput": "1",
+    "got.it.tooltip.fragment.hidden.vmParameters": "1",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ift.hide.welcome.screen.promo": "true",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "243.23654.189-IJ",
+    "jdk.selected.JAVA_MODULE": "23",
+    "last_opened_file_path": "/home/innokentiy/code/java/labs/SIS",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "org.jetbrains.plugins.groovy.config.wizard.GroovyNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IU-243.23654.189",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/innokentiy/code/java/labs/EmployeeMemoryDAO",
+      "/home/innokentiy/code/java/labs/NestedClasses",
+      "/home/innokentiy/code/java/labs/EnumBanking",
+      "/home/innokentiy/code/java/labs/SingletonBanking",
+      "/home/innokentiy/code/java/labs/AbstractBanking",
+      "/home/innokentiy/code/java/labs/SIS/LoginSystem",
+      "/home/innokentiy/code/java/labs/SIS/Calculator",
+      "/home/innokentiy/code/java/labs/EmployeeDAOJDBC",
+      "/home/innokentiy/code/java/labs/SimpleJDBCExample",
+      "/home/innokentiy/code/java/labs/02-Review/practices/EmployeePractice",
+      "/home/innokentiy/code/java/labs/SIS",
+      "/home/innokentiy/code/java/irunner",
+      "/home/innokentiy/code/java/labs/02-Review",
+      "/home/innokentiy/code/cpp/huawei/output.txt",
+      "/home/innokentiy/code/cpp/huawei/tests/70",
+      "/home/innokentiy/code/cpp/huawei/tests/275",
+      "/home/innokentiy/code/java/labs/StringsPractice03",
+      "/home/innokentiy/code/java/labs/StringsPractice02",
+      "/home/innokentiy/code/java/labs/StringsPractice01",
+      "/home/innokentiy/code/java/labs/ForkJoinFindMax",
+      "/home/innokentiy/code/java/labs/ExecutorService",
+      "/home/innokentiy/code/java/labs/NetworkThreading",
+      "/home/innokentiy/code/java/labs/Synchronized",
+      "/home/innokentiy/code/java/labs/PetComposition",
+      "/home/innokentiy/code/java/labs/Pet",
+      "/home/innokentiy/code/java/labs/Generics-Practice03",
+      "/home/innokentiy/code/java/labs/Generics-Practice02",
+      "/home/innokentiy/Downloads/javafx-sdk-23.0.2/src.zip",
+      "/home/innokentiy/Downloads/javafx-sdk-23.0.2",
+      "/usr/lib/jvm/java-23-openjdk"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

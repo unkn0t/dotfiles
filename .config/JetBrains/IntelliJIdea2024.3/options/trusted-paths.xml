@@ -1,0 +1,38 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/code/java/irunner" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/02-Review" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/02-Review/practices/EmployeePractice" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/AbstractBanking" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/EmployeeDAOJDBC" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/EmployeeMemoryDAO" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/EnumBanking" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/Generics-Practice01" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/Generics-Practice02" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/Generics-Practice03" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/NestedClasses" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/NetworkThreading" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/Pet" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/SIS-1" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/SIS-1/Calculator" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/SIS-1/Calculator/untitled" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/SIS/Calculator" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/SIS/LoginSystem" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/SimpleJDBCExample" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/SingletonBanking" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/StringsPractice01" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/StringsPractice02" value="true" />
+        <entry key="$USER_HOME$/code/java/labs/StringsPractice03" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/code/java/labs" />
+      </list>
+    </option>
+  </component>
+</application>

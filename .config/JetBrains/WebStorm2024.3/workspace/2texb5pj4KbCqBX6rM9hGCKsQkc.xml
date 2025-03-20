@@ -1,0 +1,785 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="web-dev" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1q5fmr09s1yko">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/products/products.component.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="263">
+              <caret line="343" column="18" selection-start-line="343" selection-start-column="18" selection-end-line="343" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"products.component.ts","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/products/products.component.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="32">
+              <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"products.component.html","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-72,-21,-93,-62,3,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/product-list/product-list.component.ts">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"product-list.component.ts","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 11,
+      "lastUsed": 1740728110525
+    },
+    "HTML": {
+      "usageCount": 1,
+      "lastUsed": 1740727525000
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onLike</find>
+      <find />
+      <find>category.id</find>
+      <find>categoryid</find>
+      <find>selectedcat</find>
+      <find>getSelectedCategoryProducts</find>
+      <find>category</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lab5/kaspi/src/app/product-item</dir>
+      <dir>$PROJECT_DIR$/lab5/kaspi/src/app/products</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app/products/products.component.html",
+    "/home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app/products/products.component.ts"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1740727525000" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="11" lastUsage="1740728110525" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4/kaspi}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app/product-list}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app/products}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/models}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="web-dev" />
+            <item name="web-dev" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="web-dev" />
+              <item name="dir{file:///home/innokentiy/Downloads/web-dev}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/innokentiy/Downloads/web-dev/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lab2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lab2" />
+                <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab2}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lab3" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lab3" />
+                <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab3}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lab4" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lab4" />
+                <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="kaspi" />
+                  <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4/kaspi}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/.angular" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".angular" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4/kaspi/.angular}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/.vscode" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4/kaspi/.vscode}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/node_modules" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="node_modules" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4/kaspi/node_modules}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/public" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4/kaspi/public}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/src" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab4/kaspi/src}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/.editorconfig" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/editorConfig.svg" iconPlugin="com.intellij" isLeaf="true" text=".editorconfig" />
+                    <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/.gitignore" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                    <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/.postcssrc.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text=".postcssrc.json" />
+                    <item name=".postcssrc.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/angular.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="angular.json" />
+                    <item name="angular.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/package.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                    <item name="package.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/package-lock.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package-lock.json" />
+                    <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/README.md" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                    <item name="README.md" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/tsconfig.app.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.app.json" />
+                    <item name="tsconfig.app.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/tsconfig.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.json" />
+                    <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab4/kaspi/tsconfig.spec.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.spec.json" />
+                    <item name="tsconfig.spec.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lab5" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lab5" />
+                <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="kaspi" />
+                  <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/.angular" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".angular" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/.angular}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/.vscode" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/.vscode}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/node_modules" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="node_modules" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/node_modules}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/public" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/public}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                    <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                      <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/product-item" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="product-item" />
+                        <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app/product-item}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/product-list" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="product-list" />
+                        <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app/product-list}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/product-list/product-list.component.html" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="product-list.component.html" />
+                          <item name="product-list.component.html" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/product-list/product-list.component.spec.ts" />
+                            </map>
+                          </attributes>
+                          <data iconPath="icons/expui/fileTypes/tsTest.svg" iconPlugin="JavaScript" isLeaf="true" text="product-list.component.spec.ts" />
+                          <item name="product-list.component.spec.ts" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/product-list/product-list.component.ts" />
+                            </map>
+                          </attributes>
+                          <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="product-list.component.ts" />
+                          <item name="product-list.component.ts" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/products" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="products" />
+                        <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/app/products}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/products/products.component.html" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="products.component.html" />
+                          <item name="products.component.html" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/products/products.component.spec.ts" />
+                            </map>
+                          </attributes>
+                          <data iconPath="icons/expui/fileTypes/tsTest.svg" iconPlugin="JavaScript" isLeaf="true" text="products.component.spec.ts" />
+                          <item name="products.component.spec.ts" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/products/products.component.ts" />
+                            </map>
+                          </attributes>
+                          <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="products.component.ts" />
+                          <item name="products.component.ts" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/app.component.css" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="app.component.css" />
+                        <item name="app.component.css" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/app.component.html" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="app.component.html" />
+                        <item name="app.component.html" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/app.component.spec.ts" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/expui/fileTypes/tsTest.svg" iconPlugin="JavaScript" isLeaf="true" text="app.component.spec.ts" />
+                        <item name="app.component.spec.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/app.component.ts" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="app.component.ts" />
+                        <item name="app.component.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/app.config.ts" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="app.config.ts" />
+                        <item name="app.config.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/app/app.routes.ts" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="app.routes.ts" />
+                        <item name="app.routes.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/models" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="models" />
+                      <item name="dir{file:///home/innokentiy/Downloads/web-dev/lab5/kaspi/src/models}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/models/product.model.ts" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="product.model.ts" />
+                        <item name="product.model.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/index.html" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="index.html" />
+                      <item name="index.html" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/main.ts" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="main.ts" />
+                      <item name="main.ts" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/src/styles.css" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="styles.css" />
+                      <item name="styles.css" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/.editorconfig" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/editorConfig.svg" iconPlugin="com.intellij" isLeaf="true" text=".editorconfig" />
+                    <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/.gitignore" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                    <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/.postcssrc.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text=".postcssrc.json" />
+                    <item name=".postcssrc.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/angular.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="angular.json" />
+                    <item name="angular.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/package.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                    <item name="package.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/package-lock.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package-lock.json" />
+                    <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/README.md" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                    <item name="README.md" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/tsconfig.app.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.app.json" />
+                    <item name="tsconfig.app.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/tsconfig.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.json" />
+                    <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/lab5/kaspi/tsconfig.spec.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.spec.json" />
+                    <item name="tsconfig.spec.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.32955664" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32955664" left="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="680" y="3" width="726" height="1077" key="find.popup" timestamp="1740728096395">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="680" y="3" width="726" height="1077" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1740728096395" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/product-item/product-item.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/app.config.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/product-item/product-item.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/product-list/product-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/products/products.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/kaspi/src/app/products/products.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="343" column="18" selection-start-line="343" selection-start-column="18" selection-end-line="343" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

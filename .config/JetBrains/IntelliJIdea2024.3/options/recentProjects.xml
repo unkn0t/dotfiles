@@ -1,0 +1,394 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/code/java/labs/Generics-Practice01">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Generics-Practice01 – ProductCounter.java" projectWorkspaceId="2s20keNhVlzOeAxFRWGlHidms8z">
+              <option name="activationTimestamp" value="1738922937415" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-3" y="35" width="643" height="1048" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738918446359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/Generics-Practice02">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Generics-Practice02 – ParenMatcher.java" projectWorkspaceId="2s23ntMozI8jSitmRemC56corAU">
+              <option name="activationTimestamp" value="1738922973308" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="640" y="35" width="640" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738922041191" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/Generics-Practice03">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Generics-Practice03 – SortShirtByCount.java" projectWorkspaceId="2s25g736q5J6RpqzM7bTS4v7GDd">
+              <option name="activationTimestamp" value="1738923644800" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738922051535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/Pet">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Pet – PetMain.java" projectWorkspaceId="2si1aeGkloUBDrLtsu9KZio6S1F">
+              <option name="activationTimestamp" value="1738934842206" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738923645331" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/PetComposition">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PetComposition – PetMain.java" projectWorkspaceId="2siSCU3rynieD6cjWYMKU7YWrqQ">
+              <option name="activationTimestamp" value="1738938297246" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738936774867" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/Synchronized">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Synchronized – PracticeThread.java" projectWorkspaceId="2siVHsgw1XBvsHp0MWOpTVBYEQo">
+              <option name="activationTimestamp" value="1738940398642" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738938297445" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/NetworkThreading">
+          <value>
+            <RecentProjectMetaInfo frameTitle="NetworkThreading – NetworkServerMain.java" projectWorkspaceId="2siZXt52LVuKJZFlweMcnIfEM6k">
+              <option name="activationTimestamp" value="1739272758734" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738940398951" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/ExecutorService">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ExecutorService – NetworkClientMain.java" projectWorkspaceId="2stRCouuLnvqs1Oj42FEBcszo3G">
+              <option name="activationTimestamp" value="1739275567985" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1739272759434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/ForkJoinFindMax">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ForkJoinFindMax – RandomArrayAction.java" projectWorkspaceId="2stWtqi5wn3lfdQ8oQlzIY8b3BX">
+              <option name="activationTimestamp" value="1739277612737" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1739275568275" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/StringsPractice01">
+          <value>
+            <RecentProjectMetaInfo frameTitle="StringsPractice01 – StringSplitTest.java" projectWorkspaceId="2s7asCF3PJzYhkwfyJ7c3Mp2OH7">
+              <option name="activationTimestamp" value="1739527711407" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1739527057039" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/StringsPractice02">
+          <value>
+            <RecentProjectMetaInfo frameTitle="StringsPractice02 – FindText.java" projectWorkspaceId="2s7bu5PGFEsoA9o0NH7nmEAPURX">
+              <option name="activationTimestamp" value="1739527865685" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1739527124469" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/StringsPractice03">
+          <value>
+            <RecentProjectMetaInfo frameTitle="StringsPractice03 – SearchReplace.java" projectWorkspaceId="2s7fJ5IkY0UEihjWmiUAPvVezR8">
+              <option name="activationTimestamp" value="1739718425958" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1739527134405" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/02-Review">
+          <value>
+            <RecentProjectMetaInfo frameTitle="02-Review – Manager.java" projectWorkspaceId="2s4RvIvlO5A2auDXewqE9e8G7xG">
+              <option name="activationTimestamp" value="1740132731548" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740131891814" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/irunner">
+          <value>
+            <RecentProjectMetaInfo frameTitle="irunner – Int8Challenge.java" projectWorkspaceId="2t80WKUYoBNZBDMGdZaAF0mfgGA">
+              <option name="activationTimestamp" value="1740545615629" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740132732262" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/02-Review/practices/EmployeePractice">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EmployeePractice – EmployeeTest.java" projectWorkspaceId="2ri53esZy6NF4OwDHO3EuxcGSb0">
+              <option name="activationTimestamp" value="1740738097201" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740736503693" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/SimpleJDBCExample">
+          <value>
+            <RecentProjectMetaInfo frameTitle="SimpleJDBCExample – SimpleJDBCExample.java" projectWorkspaceId="2stb2emZqFTHP5TZFiTIhFRaYKZ">
+              <option name="activationTimestamp" value="1740810111375" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740754557474" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/EmployeeDAOJDBC">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EmployeeDAOJDBC – EmployeeDAOMemoryImpl.java" projectWorkspaceId="2tfO9vSGdDAj03HxSerMMfMvWCV">
+              <option name="activationTimestamp" value="1740829685760" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740812538903" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/SIS/Calculator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Calculator – TokenType.java" projectWorkspaceId="2s7idv0Nhke7CVKCDmQehCN4jSa">
+              <option name="activationTimestamp" value="1741871828914" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740835007435" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/SIS/LoginSystem">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LoginSystem – EncryptedAuthenticatorImpl.java" projectWorkspaceId="2tZ3QsNa3nJyOmMDy4AJV8RgvGd">
+              <option name="activationTimestamp" value="1741342280640" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1741341284478" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/AbstractBanking">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AbstractBanking – Account.java" projectWorkspaceId="2sRQ2vwF8NB8GMmfhxZtd4KFGx1">
+              <option name="activationTimestamp" value="1742216688614" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1741871829957" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/SingletonBanking">
+          <value>
+            <RecentProjectMetaInfo frameTitle="SingletonBanking – Bank.java" projectWorkspaceId="2sRUzEEcKtLGfljrwaFXILxFX6v">
+              <option name="activationTimestamp" value="1741947798063" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1741946252420" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/EnumBanking">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EnumBanking – DepositLength.java" projectWorkspaceId="2sRY4bC1ErEtCXgcaeyPNQOpMkh">
+              <option name="activationTimestamp" value="1741947539035" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1152" y="35" width="384" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1741946268639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/NestedClasses">
+          <value>
+            <RecentProjectMetaInfo frameTitle="NestedClasses – OuterClass.java" projectWorkspaceId="2sRb9PJdp9ZBMOngN9wLXyTJ5hO">
+              <option name="activationTimestamp" value="1741947629517" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1536" y="35" width="387" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1741946279896" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/java/labs/EmployeeMemoryDAO">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EmployeeMemoryDAO – SingletonOne.java" opened="true" projectWorkspaceId="2siOHsEJuQQBmXHyoTvF2YVaeww">
+              <option name="activationTimestamp" value="1742217448320" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-3" y="35" width="1926" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1742216689481" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/code/java/labs/EmployeeMemoryDAO" />
+    <option name="lastProjectLocation" value="$USER_HOME$/code/java/labs/SIS" />
+  </component>
+</application>

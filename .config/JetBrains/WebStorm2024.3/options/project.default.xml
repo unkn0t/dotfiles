@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="682" y="181" width="536" height="640" key="FileChooserDialogImpl" timestamp="1739452273001">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="682" y="181" width="536" height="640" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1739452273001" />
+        <state x="676" y="76" width="1241" height="908" key="SettingsEditor" timestamp="1737038185790">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="676" y="76" width="1241" height="908" key="SettingsEditor/0.0.1920.1080" timestamp="1737038185790" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

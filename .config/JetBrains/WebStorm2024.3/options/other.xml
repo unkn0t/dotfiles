@@ -1,0 +1,69 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="16.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ColorChooser.RecentColors": "43-43-43-255,,,223-224-232-255,,,205-207-215-255,,,212-212-212-255,,,190-190-190-255",
+    "FindSplitterProportion": "0.3297336",
+    "GeneralSettings.initiallyConfigured": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "NextRunPlatformUpdateBuild": "WS-243.25659.40",
+    "NextRunPlatformUpdateSelfBuild": "WS-243.23654.120",
+    "NextRunPlatformUpdateVersion": "2024.3.4",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "TextEditorWithPreview.SplitterProportionKey": "0.87172014",
+    "ai.promo.window.was.actually.shown": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.243": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.23654.120",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "19.5",
+    "fontSizeToResetEditor": "19.5",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/innokentiy/code/rust/hello-wasm",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "WS-243.23654.120",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/innokentiy/code/web/Lab6/albums",
+      "/home/innokentiy/code/rust/hello-wasm",
+      "/home/innokentiy/Downloads/web-dev",
+      "/home/innokentiy/code/web/Lab4/my-first-angular-app",
+      "/home/innokentiy/code/web/Lab4/kaspi-products",
+      "/home/innokentiy/code/web/Lab6/queen-web",
+      "/home/innokentiy/code/web/Lab4",
+      "/home/innokentiy/code/web/Lab2",
+      "/home/innokentiy/code/web/Lab1",
+      "/home/innokentiy/code/web/Lab3"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
